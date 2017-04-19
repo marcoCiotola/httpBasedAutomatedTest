@@ -1,0 +1,2 @@
+# httpBasedAutomatedTest
+Taurus example
